@@ -2,3 +2,8 @@ apache spark- open source framework
 inbuilt tools for ML
 
 #pyspark- python API to support apache spark.
+
+#key features
+- RT Computing
+- supports multiple languages
+- process large datasets
