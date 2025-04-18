@@ -1,9 +1,14 @@
 apache spark- open source framework
 inbuilt tools for ML
 
-#pyspark- python API to support apache spark.
+#pyspark- python API to support python with apache spark.
 
 #key features
 - RT Computing
 - supports multiple languages
 - process large datasets
+- rapid processing
+
+Diff- between scala & Pyspark
+-> python is interpreted, scla need code computation
+-> pyhton has dynamic typic, scala has static typing
