@@ -14,5 +14,7 @@ Diff- between scala & Pyspark
 -> pyhton has dynamic typic, scala has static typing
 
 
-usecases- shopify, netflix, pinterest, healthcare
+usecases- shopify, netflix, pinterest(to get emerging trends), healthcare (my fitness pal)
 used for latge data apps
+
+used in travel industry, software & information service
