@@ -18,3 +18,8 @@ usecases- shopify, netflix, pinterest(to get emerging trends), healthcare (my fi
 used for latge data apps
 
 used in travel industry, software & information service
+
+#pyspark df- grps of rows with named columns
+- distributed
+- lazy evaluation
+- immutable
